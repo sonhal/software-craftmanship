@@ -81,3 +81,12 @@ Discover the business model. UI and database should depend on this model as it c
 
 ![Mediator Pattern Image](resources/mediator_pattern.png)
 
+### Suspicious in model
+- if (unless in guard clause)
+- else
+- case
+- boolean
+- map
+- enum
+- string
+
