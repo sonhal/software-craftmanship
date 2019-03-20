@@ -30,7 +30,6 @@ NOT -> Novice, Novice or Journeyman, Journeyman
 
 ### Code Quality
 
-
 #### Functions/Methods
  - Dont change mutable parameters passed into a function/method
  - Return a copy back
@@ -47,10 +46,6 @@ When this is completed you can create new features with the design.
 
 Refactor usage of nil/None/null to usage of the [Null object pattern](https://en.wikipedia.org/wiki/Null_object_pattern)
 
-
-
-
-
 ### Skill Impact
 
 Team skills go up during project
@@ -58,7 +53,6 @@ Team skills go up during project
 Speed goes up
 
 Refactor, refactor, refactor
-
 
 ### Vocabulary
 
@@ -78,4 +72,11 @@ NOTE: Use pair-programming to share this knowledge
 4. Fewest classes and methods
 
 Delete commented-out code
+
+### Macabe Complexity
+Also know as Cyclomatic complexity.
+
+Keep track of the projects Macabe Complexity score.
+
+High Macabe Complexity score has been directly linked to the amount of bugs in a project.
 
