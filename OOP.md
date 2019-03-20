@@ -54,7 +54,7 @@ Separate code, but implement contract
  
  ### Class Relationships
 
- [Class relationships](resources/class_relationships.png)
+ ![Class relationships](resources/class_relationships.png)
 
  An example of collaborating classes is the Iterator <-> Collection relationship (Python, Java, C++)
 
@@ -79,5 +79,5 @@ Time it, use 15 min to work on one of the possible solutions and listen to the c
 
 Discover the business model. UI and database should depend on this model as it can be much more stable than either of them.
 
-[Mediator Pattern Image](resources/mediator_pattern.png)
+![Mediator Pattern Image](resources/mediator_pattern.png)
 

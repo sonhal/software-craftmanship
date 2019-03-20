@@ -26,5 +26,5 @@ Journeyman, Novice
 
 NOT -> Novice, Novice or Journeyman, Journeyman
 
-[Tasking Cycle Image](resources/tasking_cycle.png)
+![Tasking Cycle Image](resources/tasking_cycle.png)
 
