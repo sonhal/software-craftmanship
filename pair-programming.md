@@ -3,7 +3,7 @@
 #### Defer to partner when in disagreement
 "You got 15 min to try it"
 
-#### Discomofort drives inovation
+#### Discomfort drives innovation
 
 #### When solving complex challanges that are difficult to verablly explain
 " let me drive"
