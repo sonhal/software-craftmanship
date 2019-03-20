@@ -17,7 +17,7 @@ Benefits:
 - Share knowledge about the system with new developers
 
 Pair programming techniques:
- - Ping pong programmming (one write the test, another make it pass)
+ - Ping pong programming (one write the test, another make it pass)
 
 Avoid pairing equally skilled people.
 Master, Novice
@@ -27,4 +27,33 @@ Journeyman, Novice
 NOT -> Novice, Novice or Journeyman, Journeyman
 
 ![Tasking Cycle Image](resources/tasking_cycle.png)
+
+
+### Skill Impact
+
+Team skills go up during project
+
+Speed goes up
+
+Refactor, refactor, refactor
+
+
+### Vocabulary
+
+- Know your language
+- Know your libraries
+- Know your patterns
+    - Design patterns
+    - Analysis patterns
+    - Coding patterns
+
+NOTE: Use pair-programming to share this knowledge
+
+### Code is done when
+1. It works
+2. Communicates
+3. No duplicate code
+4. Fewest classes and methods
+
+Delete commented-out code
 
