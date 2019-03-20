@@ -1,11 +1,10 @@
 
 ## Object Oriented Programming
 
-
 The goal of OOP is scale. A program consisting of 100 LOC which will never change does not need OOP.
 OOP delivers two important features:
 - It scales with increasing LOC
-    OOP ensures that the program can still be worked as the program grows
+    OOP ensures that the program can still be worked on as the program grows
 - It scales with change
     OOP ensures that decisions can be made at a later date. OOP programs are easy to change
 
@@ -38,6 +37,19 @@ Dont suck the data out of objects. Ask them for what you really want to know!
  - a class named something -er/-or
  - a data object
  - feature envy
+
+
+## Inheritance
+#### Only to be used when
+- Almost all code is in the super class
+- It passes the grandmother test
+    You can explain the "is a" relationship to your grandmother
+
+Remember: Classes should have behavior
+
+## Polymorphism
+
+Separate code, but implement contract
 
  
  ### Class Relationships
