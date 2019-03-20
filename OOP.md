@@ -81,6 +81,11 @@ Discover the business model. UI and database should depend on this model as it c
 
 ![Mediator Pattern Image](resources/mediator_pattern.png)
 
+
+Spending time and effort developing (discovering) the right model for the bussniss problem does involve some upfront investment.
+Modeling the system after the User Interface (UI) or after the data (Database(s)) has is cheaper upfront. But tying the application/program to either of these does have a cost down the line.
+![Modeling effort cost plot](resources/effort_functionality_plot.png)
+
 ### Suspicious in model
 - if (unless in guard clause)
 - else
